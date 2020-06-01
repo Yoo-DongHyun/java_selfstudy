@@ -1,0 +1,15 @@
+import javax.swing.JOptionPane;
+
+public class IfApp {
+	public static void main(String[] args) {
+	     String id = "Donghyun";
+	     String input = JOptionPane.showInputDialog("아이디를 입력 해줘요");
+	     
+	     if(input.equals(id)) {
+	    	 System.out.println("어서오세요 주인님");
+	     }
+	     else {
+	    	 System.out.println("누구세여?");
+	     }
+	}
+}

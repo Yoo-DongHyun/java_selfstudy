@@ -1,0 +1,9 @@
+import javax.swing.JOptionPane;
+
+public class IfApp {
+	public static void main(String[] args) {
+		int p1 = 1;
+		int p2 = 1;
+		
+	}
+}

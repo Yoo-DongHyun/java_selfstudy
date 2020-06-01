@@ -1,0 +1,8 @@
+import javax.swing.JOptionPane;
+
+public class IfApp {
+	public static void main(String[] args) {
+	     String id = "Donghyun";
+	     String input = JOptionPane.showInputDialog("아이디를 입력 해줘요");
+	}
+}

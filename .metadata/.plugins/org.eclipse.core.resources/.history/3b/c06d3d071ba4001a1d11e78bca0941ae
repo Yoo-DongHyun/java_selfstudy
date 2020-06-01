@@ -1,0 +1,9 @@
+public class BooleanApp {
+
+	public static void main(String[] args) {
+		String any = "My name";
+		System.out.println(any.contains("name"));
+
+	}
+
+}

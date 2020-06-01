@@ -1,0 +1,17 @@
+import javax.swing.JOptionPane;
+
+public class IfApp {
+	public static void main(String[] args) {
+	     String id = "Donghyun";
+	     String inputId = JOptionPane.showInputDialog("아이디를 입력 해줘요");
+	     String pw = "1234";
+	     STring inputPw
+	     
+	     if(input.equals(id)) {
+	    	 System.out.println("어서오세요 주인님");
+	     }
+	     else {
+	    	 System.out.println("누구세여?");
+	     }
+	}
+}

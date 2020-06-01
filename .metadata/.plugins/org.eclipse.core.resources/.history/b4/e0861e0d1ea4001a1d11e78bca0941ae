@@ -1,0 +1,10 @@
+import javax.swing.JOptionPane;
+
+public class IfApp {
+	public static void main(String[] args) {
+		String p1 = "1234";
+		String p2 = "1234";
+		System.out.println(p1==p2);
+		System.out.println(p1.equals(p2));
+	}
+}
